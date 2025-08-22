@@ -1,0 +1,341 @@
+{
+  "arraySidebar": [
+    {
+      "titleGrupo": "Home",
+      "arrayItem": [
+        {
+          "idItem": 1,
+          "titleItem": "item 1",
+          "arraySubitem": [
+            {
+              "idSubitem": 1.1,
+              "titleSubitem": "textsubitem 1.1",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 1.2,
+              "titleSubitem": "textsubitem 1.2",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 1.3,
+              "titleSubitem": "textsubitem 1.3",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 1.4,
+              "titleSubitem": "textsubitem 1.4",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 1.5,
+              "titleSubitem": "textsubitem 1.5",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            }
+          ]
+        },
+        {
+          "idItem": 2,
+          "titleItem": "item 2",
+          "arraySubitem": [
+            {
+              "idSubitem": 2.1,
+              "titleSubitem": "textsubitem 2.1",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 2.2,
+              "titleSubitem": "textsubitem 2.2",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 2.3,
+              "titleSubitem": "textsubitem 2.3",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 2.4,
+              "titleSubitem": "textsubitem 2.4",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 2.5,
+              "titleSubitem": "textsubitem 2.5",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            }
+          ]
+        },
+        {
+          "idItem": 3,
+          "titleItem": "item 3",
+          "arraySubitem": [
+            {
+              "idSubitem": 3.1,
+              "titleSubitem": "textsubitem 3.1",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 3.2,
+              "titleSubitem": "textsubitem 3.2",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 3.3,
+              "titleSubitem": "textsubitem 3.3",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 3.4,
+              "titleSubitem": "textsubitem 3.4",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 3.5,
+              "titleSubitem": "textsubitem 3.5",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            }
+          ]
+        },
+        {
+          "idItem": 4,
+          "titleItem": "item 4",
+          "arraySubitem": [
+            {
+              "idSubitem": 4.1,
+              "titleSubitem": "textsubitem 4.1",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 4.2,
+              "titleSubitem": "textsubitem 4.2",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 4.3,
+              "titleSubitem": "textsubitem 4.3",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 4.4,
+              "titleSubitem": "textsubitem 4.4",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 4.5,
+              "titleSubitem": "textsubitem 4.5",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            }
+          ]
+        },
+        {
+          "idItem": 5,
+          "titleItem": "item 5",
+          "arraySubitem": [
+            {
+              "idSubitem": 5.1,
+              "titleSubitem": "textsubitem 5.1",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 5.2,
+              "titleSubitem": "textsubitem 5.2",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 5.3,
+              "titleSubitem": "textsubitem 5.3",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 5.4,
+              "titleSubitem": "textsubitem 5.4",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            },
+            {
+              "idSubitem": 5.5,
+              "titleSubitem": "textsubitem 5.5",
+              "objectSubitem": {
+                "type": "",
+                "pageid": "",
+                "sectionid": null,
+                "targetBlank": false,
+                "loadProgress": true,
+                "loadprogressColors": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sideBarVerticalisExpanded": true,
+  "sideBarVerticalSizeExpanded": 100
+}
