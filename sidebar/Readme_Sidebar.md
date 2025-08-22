@@ -27,7 +27,7 @@ Cada objeto dentro deste array representa um item de navegação principal, que 
 -   **Objeto de Item**:
 -   `idItem`: (Number) Um identificador numérico único para o item.
 -   `titleItem`: (String) O texto que será exibido para este item (atualmente padronizado como "item").
--   `icon`: (String) O nome de um ícone da biblioteca Phosphor Icons a ser exibido ao lado do título.
+-   `icon`: (String) O caminho do ícone no formato `phosphor-regular/nome-do-icone` para ser exibido ao lado do título.
     -   `arraySubitem`: (Array) Contém os subitens de navegação associados a este item principal.
 
 ## Estrutura do `arraySubitem`
@@ -37,7 +37,7 @@ Cada objeto neste array representa um subitem de navegação, que é o link fina
 -   **Objeto de Subitem**:
 -   `idSubitem`: (Number) Um identificador numérico único para o subitem, geralmente no formato `[idItem].[index]`.
 -   `titleSubitem`: (String) O texto que será exibido para o subitem (atualmente padronizado como "subitem").
--   `icon`: (String) O nome de um ícone da biblioteca Phosphor Icons a ser exibido ao lado do título.
+-   `icon`: (String) O caminho do ícone no formato `phosphor-regular/nome-do-icone` para ser exibido ao lado do título.
     -   `objectSubitem`: (Object) Um objeto que contém metadados e configurações para o comportamento do link do subitem.
         -   `type`: (String) Tipo de ação ou link.
         -   `pageid`: (String) Identificador da página de destino.
@@ -45,3 +45,7 @@ Cada objeto neste array representa um subitem de navegação, que é o link fina
         -   `targetBlank`: (Boolean) Define se o link deve ser aberto em uma nova aba (`true`) ou não (`false`).
         -   `loadProgress`: (Boolean) Indica se uma barra de progresso de carregamento deve ser exibida.
         -   `loadprogressColors`: (String/null) Cores para a barra de progresso.
+
+## Contexto de Front-end
+
+Esta estrutura de dados foi projetada para ser consumida por um front-end construído com a plataforma Weweb. A plataforma utiliza essa fonte de dados para renderizar a sidebar dinamicamente.
