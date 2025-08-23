@@ -40,8 +40,8 @@ Cada objeto neste array representa um subitem de navegação, que é o link fina
 -   `icon`: (String) O caminho do ícone no formato `phosphor-regular/nome-do-icone` para ser exibido ao lado do título.
     -   `objectSubitem`: (Object) Um objeto que contém metadados e configurações para o comportamento do link do subitem.
         -   `type`: (String) Tipo de ação ou link (atualmente padronizado como "internal").
-        -   `pageid`: (String) Identificador da página de destino.
-        -   `sectionid`: (String/null) Identificador da seção específica na página de destino.
+        -   `pageId`: (String) Identificador da página de destino.
+        -   `sectionId`: (String/null) Identificador da seção específica na página de destino.
         -   `targetBlank`: (Boolean) Define se o link deve ser aberto em uma nova aba (`true`) ou não (`false`).
         -   `loadProgress`: (Boolean) Indica se uma barra de progresso de carregamento deve ser exibida.
         -   `loadprogressColors`: (String/null) Cores para a barra de progresso.
